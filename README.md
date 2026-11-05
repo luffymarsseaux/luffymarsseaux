@@ -1,16 +1,16 @@
-## Hi there 👋
+Salut, moi c'est Lephie👋
 
-<!--
-**luffymarsseaux/luffymarsseaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Administrateur sécurité & réseaux junior, fraîchement diplômé.
+Je m'intéresse à la sécurisation des infrastructures réseau.
 
-Here are some ideas to get you started:
+🛠️ Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sécurité : pare-feu NGFW (FortiGate), segmentation, DMZ, portail captif
+- Réseau : VLAN, switch L3 Cisco, routage inter-VLAN
+- Systèmes : Windows Server, Active Directory, Linux
+- Outils : Wireshark, Packet Tracer, GNS3
+
+ 🌱 Je suis en train d'apprendre
+
+- Préparation de ma première certification
+- Automatisation avec Python et Bash
